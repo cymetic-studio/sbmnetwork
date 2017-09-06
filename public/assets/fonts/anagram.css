@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "anagram";
+    src: url("../fonts/anagram.eot"); /* IE9 */
+    src: url("../fonts/anagram.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("../fonts/anagram.woff") format("woff"), /* chrome, firefox */
+    url("../fonts/anagram.ttf") format("truetype"), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+    url("../fonts/anagram.svg#anagram") format("svg"); /* iOS 4.1- */
+    font-style: normal;
+    font-weight: normal;
+}
+
+

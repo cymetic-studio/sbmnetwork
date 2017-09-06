@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "Folks-Bold";
+    src: url("../fonts/Folks-Bold.eot"); /* IE9 */
+    src: url("../fonts/Folks-Bold.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("../fonts/Folks-Bold.woff") format("woff"), /* chrome, firefox */
+    url("../fonts/Folks-Bold.ttf") format("truetype"), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+    url("../fonts/Folks-Bold.svg#Folks-Bold") format("svg"); /* iOS 4.1- */
+    font-style: normal;
+    font-weight: normal;
+}
+
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "Folks-Normal";
+    src: url("../fonts/Folks-Normal.eot"); /* IE9 */
+    src: url("../fonts/Folks-Normal.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("../fonts/Folks-Normal.woff") format("woff"), /* chrome, firefox */
+    url("../fonts/Folks-Normal.ttf") format("truetype"), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+    url("../fonts/Folks-Normal.svg#Folks-Normal") format("svg"); /* iOS 4.1- */
+    font-style: normal;
+    font-weight: normal;
+}
+
+
